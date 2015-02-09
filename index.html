@@ -1,0 +1,178 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Hard Times</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<link href='http://fonts.googleapis.com/css?family=Bubblegum+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Luckiest+Guy' rel='stylesheet' type='text/css'>
+  <style>
+  #table-back {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    left: 0; 
+  }
+  #table-back img {
+    width: 100%;
+    z-index: 1;
+    opacity: 0.3;
+  }
+  body{ background: url('stardust.png');
+    margin: 5% 25%;
+  }
+  #reflection,#gloss {
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0; 
+    width: 1000px;
+    height: 1000px;
+    background-image: url('gloss.png');
+  }
+  #reflection {
+    background-image: url('reflection.png');
+    opacity: 0.13;
+    background-repeat: repeat-y;
+  }
+
+  #magazine { 
+    position: absolute;
+    z-index:2;
+    overflow: hidden;
+    width: 619px;
+    height: 790px;
+    box-shadow: 
+      inset -5px -2px 5px 1px rgba(255,255,255,0.3),
+      inset 3px 3px 5px 1px rgba(10,10,10,0.4),
+      2px 2px 4px 6px rgba(0,0,0,0.3);
+    background-image: url("paisley.png");
+    background-color: darkgreen;
+  }
+  #content {
+    margin: 20px;
+  }
+  #copy {
+    color: rgba(219, 219, 0, 0.7);
+    font-size:50px;
+    font-family: 'Bubblegum Sans', cursive;
+    overflow: visible;
+    z-index: 3;
+    position: relative;
+    width: 590px;
+    text-align: center;
+    text-shadow: 
+      -2px -2px 0 rgba(109, 109, 0,0.6),
+      2px -2px 0 rgba(109, 109, 0,0.6),
+      -2px 2px 0 rgba(109, 109, 0),
+      2px 2px 0 rgba(109, 109, 0);
+    height: 0;
+  }
+  #copy-main {
+    padding-top:40px;
+    font-size: 2em;
+  }
+  #copy-sub {
+    font-size: 0.5em;
+    text-align:right;
+    margin-right:60px;
+    text-shadow: 
+      -2px -2px 0 rgb(109, 109, 0),
+      2px -2px 0 rgb(109, 109, 0),
+      -2px 2px 0 rgb(109, 109, 0),
+      2px 2px 0 rgb(109, 109, 0);
+  }
+  #shower{
+     opacity: 0.9;
+     box-shadow: 0 0 0px 5px rgba(186, 56, 56, 0.9);
+  }
+  #lead {
+    z-index: 4;
+    position: absolute;
+    top: -9px;
+    padding: 27px 20px 0;
+    left: -44px;
+    line-height: 0.9em;
+    width: 100px;
+    height: 38px;
+    text-align: center;
+    font-size:18px;
+    font-family: 'Righteous', cursive;
+    color: white;
+    background: rgba(4, 133, 173,0.7);
+    box-shadow: 0 0 1px 1px rgba(127, 223, 253,0.5);
+
+
+    -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+    transform: rotate(-45deg);
+  }
+
+  h2{
+   font-family: Times;
+   margin: -1.7em 0 1.5em;
+   padding: 0;
+   font-family: 'Righteous', cursive;
+   font-size: 14px;
+   font-weight: normal;
+    text-align:center;
+   color:rgba(0,0,0,0.7);
+  }
+  h1{
+    text-align:center;
+    opacity: 0.9;
+    padding:9px 0 0;margin:0;
+    color:#f8972e;
+    text-shadow: 
+      -6px -6px 0 #ba3838,  
+      6px -6px 0 #ba3838,
+      -6px 6px 0 #ba3838,
+      6px 6px 0 #ba3838;
+    white-space:nowrap;
+    font-size:95px;font-family: 'Luckiest Guy', cursive;}
+
+s {position: relative}
+s::after {
+    border-bottom: 3px solid rgba(0,0,0,0.8);
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 50%;
+}
+  </style>
+</head>
+
+<body>
+<div id=table-back>
+  <img src=table-back.jpg>
+</div>
+<div id=magazine>
+  <div id=gloss></div>
+  <div id="reflection"></div>
+  <div id="content">
+    <div id="lead">Coming Soon</div>
+    <h1>HARD TIMES</h1>
+    <h2>Price: <s>$8.95</s> <s>$6.95</s> <s>$3.50</s> <b><u>$0.99!</u></b></h2>
+    <div id="copy">
+      <div id="copy-main">
+        It's Not Porn
+      </div>
+      <div id="copy-sub">
+      (It's A Comedy About Porn)
+      </div>
+    </div>
+    <img id=shower src=shower-headsm.jpg>
+  </div>
+</div>
+</body>
+</html>
