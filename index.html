@@ -23,16 +23,19 @@
   }
   #table-back img {
     width: 100%;
-    z-index: 1;
     opacity: 0.3;
   }
+  html{
+    width:100%;height:100%;  
+  }
   html,body{
-    height:100%;
-    background: url('stardust.png');
+    margin:0;padding:0;
+    background: url('stardust.png') repeat;
+    background-color: rgb(30,30,30);
   }
   body{ 
     text-align: center;
-    margin-top:3%;
+    padding-top:5%;
   }
   #reflection,#gloss {
     position: absolute;
@@ -50,6 +53,7 @@
   }
 
   #magazine { 
+    border: 0px solid rgba(0,0,0,0.3);
     display:inline-block;
     position: relative;
     z-index:2;
@@ -69,8 +73,8 @@
   animation-name: transformIn;
   -webkit-animation-name: transformIn;
 
-  animation-duration: 1s, 1s;
-  -webkit-animation-duration: 10s, 10s;
+  animation-duration: 2s, 2s;
+  -webkit-animation-duration: 2s, 2s;
 
   animation-timing-function: ease-in, ease-in;
   }
@@ -89,8 +93,8 @@
     text-shadow: 
       -2px -2px 0 rgba(109, 109, 0,0.6),
       2px -2px 0 rgba(109, 109, 0,0.6),
-      -2px 2px 0 rgba(109, 109, 0),
-      2px 2px 0 rgba(109, 109, 0);
+      -2px 2px 0 rgba(109, 109, 0,1),
+      2px 2px 0 rgba(109, 109, 0,1);
     height: 0;
   }
   #copy-main {
@@ -102,10 +106,10 @@
     text-align:right;
     margin-right:60px;
     text-shadow: 
-      -2px -2px 0 rgb(109, 109, 0),
-      2px -2px 0 rgb(109, 109, 0),
-      -2px 2px 0 rgb(109, 109, 0),
-      2px 2px 0 rgb(109, 109, 0);
+      -1px -1px 0 rgb(109, 109, 0),
+      1px -1px 0 rgb(109, 109, 0),
+      -1px 1px 0 rgb(109, 109, 0),
+      1px 1px 0 rgb(109, 109, 0);
   }
   #shower{
      opacity: 0.9;
@@ -123,7 +127,7 @@
     text-align: center;
     font-size:18px;
     font-family: 'Righteous', cursive;
-    color: white;
+    color: rgba(255,255,255,0.8);
     background: rgba(4, 133, 173,0.7);
     box-shadow: 0 0 1px 1px rgba(127, 223, 253,0.5);
 
@@ -134,10 +138,10 @@
 
   h2{
    font-family: Times;
-   margin: -1.7em 0 1.5em;
+   margin: -1.6em 0 1.5em;
    padding: 0;
    font-family: 'Righteous', cursive;
-   font-size: 14px;
+   font-size: 16px;
    font-weight: normal;
     text-align:center;
    color:rgba(0,0,0,0.7);
@@ -145,7 +149,8 @@
   h1{
     text-align:center;
     opacity: 0.9;
-    padding:9px 0 0;margin:0;
+    padding:9px 0 0;
+    margin:0;
     color:#f8972e;
     text-shadow: 
       -6px -6px 0 #ba3838,  
@@ -155,7 +160,21 @@
     white-space:nowrap;
     font-size:95px;font-family: 'Luckiest Guy', cursive;}
 
-s {position: relative}
+s:nth-child(even) {
+  transform: rotate(-2deg);
+  font-size: 110%;
+}
+b { 
+  transform: rotate(-2deg);
+  letter-spacing: -0.1em;
+  font-size: 130%;
+}
+s {
+  display: inline-block;
+  transform: rotate(2deg);
+  -moz-transform: rotate(2deg);
+  text-decoration: none; 
+  position: relative}
 s::after {
     border-bottom: 3px solid rgba(0,0,0,0.8);
     content: "";
@@ -165,27 +184,37 @@ s::after {
     top: 50%;
 }
 @-webkit-keyframes transformIn {
-  from { transform: scale(1.5) rotate(-15deg); }
+  from { 
+    -webkit-filter: blur(3px) brightness(1.4);
+    -moz-filter: blur(3px) brightness(1.4);
+    -o-filter: blur(3px) brightness(1.4);
+    -ms-filter: blur(3px) brightness(1.4);
+    filter: blur(3px) brightness(1.4);
+    border-width: 15px 10px 0 0;
+    transform: scale(1.5) rotate(-15deg); }
   to { transform: scale(1) rotate(5deg); }
 }
 @keyframes transformIn {
-  from { transform: scale(1.5) rotate(-15deg); }
+  from { 
+    -webkit-filter: blur(3px) brightness(1.4);
+    -moz-filter: blur(3px) brightness(1.4);
+    -o-filter: blur(3px) brightness(1.4);
+    -ms-filter: blur(3px) brightness(1.4);
+    filter: blur(3px) brightness(1.4);
+    border-width: 15px 10px 0 0;
+    transform: scale(1.5) rotate(-15deg); }
   to { transform: scale(1) rotate(5deg); }
 }
   </style>
-</head>
-
-<body>
-<div id=table-back>
+</head><body><div id=table-back>
   <img src=table-back.jpg>
-</div>
-<div id=magazine>
+</div><div id=magazine>
   <div id=gloss></div>
   <div id="reflection"></div>
   <div id="content">
     <div id="lead">Coming Soon</div>
     <h1>HARD TIMES</h1>
-    <h2>Price: <s>$8.95</s> <s>$6.95</s> <s>$3.50</s> <s>$0.99</s> <b><u>FREE!</u></b></h2>
+    <h2>Price: <s>$8.95</s> <s>$6.95</s> <s>$3.50</s> <s>$0.99</s> <b>FREE!</b></h2>
     <div id="copy">
       <div id="copy-main">
         It's Not Porn
