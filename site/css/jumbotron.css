@@ -62,6 +62,7 @@ h2 .text-muted {
   line-height: 1em;
   display: block;
   text-shadow: 0 0 10px rgba(0,0,0,0.6);
+  color: #aaa;
 }
 .lead .copy  {
   position: absolute;
