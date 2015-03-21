@@ -20,6 +20,10 @@ h2 .text-muted {
   font-weight: normal;
   margin-top: 0.35em
 }
+.vid-desc { margin-top: 0.5em }
+.video img {
+  width: 100%
+}
 .interview-text {
   font-size: 20px;
   color: #999;
