@@ -1,20 +1,40 @@
-/* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-bottom: 20px;
 }
+h1 {
+  font-size: 300%;
+}
+h1 small {
+  font-size: 45%;
+}
 
 .show h2,h1 { font-family: 'Anton', sans-serif; }
-.header-image {
-  position: relative;
-}
-.jumbotron {
-  padding-top: 12px;
-}
 h2 em {
   font-style: normal;
   margin-right: 0.5em;
   color: #999;
   color: #C0995B;
+}
+h2 .text-muted {
+  display: block;
+  font-weight: normal;
+  margin-top: 0.35em
+}
+.interview-text {
+  font-size: 20px;
+  color: #999;
+}
+.interview-text a {
+  margin: 0 0.23em;
+}
+.jumbotron {
+  padding-top: 12px;
+}
+.text-muted a {
+  opacity: 0.7
+}
+.play-wrap {
+  position: relative;
 }
 .play:after {
   content: '\25b6';
@@ -22,41 +42,39 @@ h2 em {
   cursor: pointer;
   position: absolute;
   left: 42%;
-  top: 39%;
+  top: 20%;
   color: rgba(255,255,255,0.5);
   text-shadow: 0 0 5px rgba(0,0,128,0.5);
 }
 .img-full {
   width: 100%;
-  min-height: 200px;
+  left: 0;
+  z-index: -1;
 }
-.lead .row > div {
-  display: table-cell;
-  vertical-align: bottom;
-  float: none;
+.show-title .copy {
+  margin-bottom: 10.5px;
 }
 #title small {
-  float: right;
+  line-height: 1em;
+  display: block;
   text-shadow: 0 0 10px rgba(0,0,0,0.6);
 }
-@media (max-width: 480px) {
-  body{font-size: 10px;}
+.lead .copy  {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  padding-right: 20%;
 }
 
-@media (max-width: 768px) {
-  .show-title {
-    font-size: 100%;
-  }
+.container-fluid,
+.lead > .container-fluid > div {
+  position: relative;
+  padding: 0
 }
 
 .show-title {
   text-align: right;
-}
-h1 {
-  font-size: 300%;
-}
-h1 small {
-  font-size: 45%;
 }
 #title {
   line-height: 0.9em;
@@ -65,33 +83,6 @@ h1 small {
   color: rgba(0, 188, 140, 0.95);
   text-shadow: 0 0 20px rgba(0,0,0,0.4);
 }
-.copy p {
-}
-.header-image .lead {
-  text-align: right;
-  position: absolute;
-  bottom: 0px;
-  text-shadow: 3px 3px 4px black;
-  font-size:195%;
-  margin-bottom: 0.5em;
-}
-.bleed-up {
-  background: rgba(48, 48, 48, 0.5);
-  margin-top: -140px;
-  z-index: 4;
-  display: block;
-  position: relative;
-}
-.break {
-  height: 1.5em;
-  width: 100%;
-  background: rgba(0, 188, 140, 0.65);
-}
-#lead-in {
-  position: absolute;
-  top: 0;
-  right: 0;
-}
 .header-image {
   padding-left: 0;
   padding-right: 0;
@@ -99,6 +90,17 @@ h1 small {
   margin-right: auto;
 }
 
+.header-image .lead {
+  text-align: right;
+  text-shadow: 3px 3px 4px black;
+  font-size:195%;
+  margin-bottom: 0;
+}
+.break {
+  height: 1.5em;
+  width: 100%;
+  background: rgba(0, 188, 140, 0.65);
+}
 .featurette-divider {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
 }
@@ -108,4 +110,23 @@ h1 small {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
+}
+
+@media (max-width: 480px) {
+  .show-title {
+    font-size: 100%;
+  }
+  .copy {
+    font-size: 60%;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead .copy  {
+    padding-right: 0%;
+  }
+  .copy {
+    font-size: 75%;
+    text-align: center;
+  }
 }
