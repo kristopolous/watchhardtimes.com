@@ -117,6 +117,9 @@ h2 .text-muted {
   letter-spacing: -1px;
 }
 
+.vid-desc {
+  font-size: 1.20em;
+}
 @media (max-width: 480px) {
   .show-title {
     font-size: 100%;
