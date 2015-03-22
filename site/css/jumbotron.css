@@ -127,6 +127,9 @@ h2 .text-muted {
 }
 
 @media (max-width: 768px) {
+  .lhs .copy {
+    line-height: 1.25em;
+  }
   .lead .copy  {
     padding-right: 0%;
   }
