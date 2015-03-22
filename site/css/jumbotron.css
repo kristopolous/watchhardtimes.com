@@ -121,9 +121,12 @@ h2 .text-muted {
   font-size: 1.15em;
   margin-bottom: 2em;
 }
-  .teaser {
-    margin-bottom: .75em;
-  }
+.share-btns {
+  height: 38px
+}
+.teaser {
+  margin-bottom: .75em;
+}
 @media (max-width: 480px) {
   .show-title {
     font-size: 100%;
