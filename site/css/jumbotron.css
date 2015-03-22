@@ -5,7 +5,7 @@ h1 {
   font-size: 300%;
 }
 h1 small {
-  font-size: 40%;
+  font-size: 37%;
 }
 
 .show h2,h1 { font-family: 'Anton', sans-serif; }
@@ -62,7 +62,7 @@ h2 .text-muted {
   line-height: 1em;
   display: block;
   text-shadow: 0 0 10px rgba(0,0,0,0.6);
-  color: #aaa;
+  color: #b4b4b4;
 }
 .lead .copy  {
   position: absolute;
