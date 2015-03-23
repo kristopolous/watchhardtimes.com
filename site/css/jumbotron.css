@@ -60,6 +60,7 @@ h2 .text-muted {
 }
 #title small {
   line-height: 1em;
+  white-space: nowrap;
   display: block;
   text-shadow: 0 0 10px rgba(0,0,0,0.6);
   color: #bbb;
