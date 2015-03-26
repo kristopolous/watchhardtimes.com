@@ -120,7 +120,7 @@
         </div>
       </div>
       <div class="row featurette">
-        <div class="col-md-6">
+        <div class="col-md-4">
           <h2 class='text-warning'>Jessa Rhodes</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kIXy00yq2mY" allowfullscreen></iframe>
@@ -139,7 +139,26 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-4">
+          <h2 class='text-warning'>Jessa Rhodes (Extended)</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0bhweB8xmBM" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>
+            An extended Q&A from the beautiful Jessa Rhodes.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
           <h2 class='text-warning'>Eric Masterson</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_p32SDO119E" allowfullscreen></iframe>
