@@ -99,14 +99,27 @@
 
       <div class="row featurette">
         <div class="col-md-12">
-          <h2 class="featurette-heading teaser" style='margin-top:1.5em' >
-            <span class='hidden-sm hidden-xs'>Hard Times. &nbsp;</span>On This Site April 2nd.<br/>
-            <span class="text-muted">Each evening. Updates and interviews as we countdown.</span>
+          <h2 class="featurette-heading teaser" style='margin-top:1.5em;margin-bottom:0.35em;text-indent:1em' >
+            <span class="hidden-xs hidden-sm">Hard Times.</span>
+            On This Site April 2nd.
           </h2>
+        </div>
+        <div class="col-md-4 col-xs-12 col-sm-12">
+        </div>
+      </div>
+      <div class="row featurette">
+        <div class="col-md-12">
+          <h2 class="featurette-heading teaser interview" style='margin-top:0'>
+            <span class="text-muted">New interviews and more each evening as we count down.</span>
+            <span class="text-success text-muted" id="countdown">&nbsp;</span>
+          </h2>
+
           <div class='hidden'>
           <h2 class="featurette-heading">Behind the Scenes<br><span class="text-muted">exclusive interviews.</span></h2>
           </div>
         </div>
+      </div>
+      <div class="row featurette">
         <div class="col-md-6">
           <h2 class='text-warning'>Jessa Rhodes</h2>
           <div class="embed-responsive embed-responsive-16by9">
@@ -197,7 +210,39 @@
       ga('create', 'UA-61056921-1', 'auto');
       ga('send', 'pageview');
 
-    var now = <?= time(); ?>, dest = <?= strtotime("April 2nd, 2015 10PM") ?>;
+      var 
+        client_now = new Date(), 
+        client_start = new Date(), 
+        server_now = new Date(<?= time(); ?> * 1000), 
+        dest = new Date(<?= strtotime("April 2nd, 2015 10PM") ?> * 1000);
+
+      function countdown() {
+        client_now = new Date();
+        var remaining = (dest - (client_now - client_start + +server_now)) / 1000;
+
+        var Day = Math.floor(remaining / 60 / 60 / 24),
+          rem = {
+            hour: Math.floor(remaining / 60 / 60) % 24,
+            minute: Math.floor(remaining / 60) % 60,
+            second: Math.floor(remaining % 60)
+          },
+          words = "<span>";
+
+        words += Day + " day" + ((Day != 1) ? "s" : "") + "</span> <span>";
+
+        for(var which in rem) {
+          if(rem[which] < 10 && (which == 'second')) {
+            words += '&nbsp;'
+          }
+          words += rem[which] + which.slice(0,1) + " ";
+        }
+        words += "</span>";
+        $("#countdown").html($.trim(words));  
+      }
+
+      countdown();
+      setInterval(countdown, 200);
+
     </script>
   </body>
 </html>

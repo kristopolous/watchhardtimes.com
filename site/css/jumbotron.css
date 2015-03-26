@@ -58,6 +58,25 @@ h2 .text-muted {
 .show-title .copy {
   margin-bottom: 10.5px;
 }
+.interview {
+  background: #111;
+  padding: 0.3em 1em;
+  border: 2px solid rgba(96,96,96,0.4);
+  box-shadow: inset 0 0 5px black;
+  border-radius: 7px;
+}
+#countdown { 
+  display: inline-block;
+  padding: 0.30em 0;
+  margin: 0.25em 0 0 0;
+  font-weight: bold;
+  opacity: 0.8;
+
+}
+#countdown span {
+  text-align: left;
+  white-space: nowrap;
+}
 #title small {
   line-height: 1em;
   white-space: nowrap;
@@ -142,7 +161,7 @@ h2 .text-muted {
     line-height: 1.20em;
   }
   .teaser {
-    margin-bottom: 1.25em;
+    margin-bottom: 1em;
   }
 
   .lead .copy  {
