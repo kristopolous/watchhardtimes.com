@@ -18,7 +18,7 @@ h2 em {
 h2 .text-muted {
   display: block;
   font-weight: normal;
-  margin-top: 0.35em
+  margin-top: 0.20em
 }
 .vid-desc { margin-top: 0.5em }
 .video img {
@@ -60,7 +60,7 @@ h2 .text-muted {
 }
 .interview {
   background: #111;
-  padding: 0.3em 1em;
+  padding: 0.3em 0.75em;
   border: 2px solid rgba(96,96,96,0.4);
   box-shadow: inset 0 0 5px black;
   border-radius: 7px;
@@ -71,11 +71,16 @@ h2 .text-muted {
   margin: 0.25em 0 0 0;
   font-weight: bold;
   opacity: 0.8;
-
 }
 #countdown span {
   text-align: left;
   white-space: nowrap;
+}
+.firstline {
+  margin: 1.5em 0 0.35em 0.75em;
+}
+.firstline span {
+  display: inline-block;
 }
 #title small {
   line-height: 1em;

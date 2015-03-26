@@ -99,9 +99,9 @@
 
       <div class="row featurette">
         <div class="col-md-12">
-          <h2 class="featurette-heading teaser" style='margin-top:1.5em;margin-bottom:0.35em;text-indent:1em' >
+          <h2 class="featurette-heading firstline">
             <span class="hidden-xs hidden-sm">Hard Times.</span>
-            On This Site April 2nd.
+            <span>On This Site</span> <span>April 2nd.</span>
           </h2>
         </div>
         <div class="col-md-4 col-xs-12 col-sm-12">
