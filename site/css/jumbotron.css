@@ -177,6 +177,11 @@ h2 .text-muted {
   .lhs .copy {
     line-height: 1.20em;
   }
+  .box {
+    border-radius: 0;
+    border-left: 0;
+    border-right: 0;
+  }
   .teaser {
     margin-bottom: 1em;
   }
