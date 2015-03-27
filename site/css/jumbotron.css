@@ -58,12 +58,24 @@ h2 .text-muted {
 .show-title .copy {
   margin-bottom: 10.5px;
 }
-.interview {
+.box,.interview {
   background: #111;
   padding: 0.3em 0.75em;
   border: 2px solid rgba(96,96,96,0.4);
   box-shadow: inset 0 0 5px black;
   border-radius: 7px;
+}
+.tumblr-title span { 
+  display: inline-block;
+}
+.box .thumbnail {
+  margin-bottom: 0;
+}
+.box {
+  padding: 1.5em 0.5em;
+}
+.box p {
+  font-size: 1.15em;
 }
 #countdown { 
   display: block;

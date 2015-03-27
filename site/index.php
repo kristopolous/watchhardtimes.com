@@ -177,9 +177,25 @@
             </div>
           </div>
         </div>
+       </div>
         
+      <div class="row">
+        <div class="col-md-6 box">
+          <div class="col-md-6" style='padding-left:8px;padding-right:8px'>
+            <a href="http://watchhardtimes.tumblr.com/" class="thumbnail">
+              <img src="img/tumblr-sshot_600.jpg" alt="our tumblr">
+            </a>
+          </div>
+          <div class="col-md-6">
+            <p class="hide-lg hide-md"></p>
+            <h2 class="featurette-heading text-warning tumblr-title" style='margin-top:0'>
+            <span>Come Play With Us</span> <span><a href="http://watchhardtimes.tumblr.com/">On Tumblr!</a></span></h2>
+            <p>See photos of our stars and more!<br/><span style='font-size:90%;' class="text-muted">Also, we follow back. ;-)</span></p>
+          </div>
+
+        </div>
         <div class="col-md-6">
-          <h2 style='margin-top: 2em'>Later this week&hellip;</h2>
+          <h2>Later this week&hellip;</h2>
           <p class='interview-text'>Interviews with our stars:
             <a href="http://www.imdb.com/name/nm6064601/">Ariana Marie</a> 
             <a href="http://en.wikipedia.org/wiki/Brandy_Aniston">Brandy Aniston</a> 
