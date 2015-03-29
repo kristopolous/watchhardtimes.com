@@ -177,23 +177,39 @@
             </div>
           </div>
         </div>
-       </div>
+      </div>
         
       <div class="row">
         <div class="col-md-6 box">
-          <div class="col-md-6" style='padding-left:8px;padding-right:8px'>
-            <a href="http://watchhardtimes.tumblr.com/" class="thumbnail">
-              <img src="img/tumblr-sshot_600.jpg" alt="our tumblr">
-            </a>
-          </div>
-          <div class="col-md-6">
-            <p class="hide-lg hide-md"></p>
-            <h2 class="featurette-heading text-warning tumblr-title" style='margin-top:0'>
-            <span>Come Play With Us</span> <span><a href="http://watchhardtimes.tumblr.com/">On Tumblr!</a></span></h2>
-            <p>See photos of our stars and more!<br/><span style='font-size:90%;' class="text-muted">Also, we follow back. ;-)</span></p>
-          </div>
-
+          <h2 class="featurette-heading text-warning tumblr-title" style='margin-top:0'><span>Come Play With Us</span> <span><a href="http://watchhardtimes.tumblr.com/">On Tumblr!</a></span></h2>
+          <a style='margin-top:10px;padding-top:5px;padding-bottom:5px' href="http://watchhardtimes.tumblr.com/" class="thumbnail">
+            <img src="img/tumblr-sshot_600.jpg" alt="our tumblr">
+          </a>
+          <p class="hide-lg hide-md"></p>
+          <p>See photos of our stars and more over at <a href="http://watchhardtimes.tumblr.com/">watchhardtimes.tumblr.com</a>!<br/><span style='font-size:90%;' class="text-muted">Also, we follow back. ;-)</span></p>
+          <p><a href="http://watchhardtimes.tumblr.com/">watchhardtimes.tumblr.com</a></p>
         </div>
+        <div class="col-md-6">
+          <h2 class='text-warning'>Nina Hartley</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8OvjBIH-h5I" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>
+            The legendary adult performer enjoys working with the newer performers in the industry -- they just gets better and better!</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
         <div class="col-md-6">
           <h2>Later this week&hellip;</h2>
           <p class='interview-text'>Interviews with our stars:
@@ -208,7 +224,6 @@
           </p>
         </div>
       </div>
-      <!-- Example row of columns -->
 
       <hr>
 
