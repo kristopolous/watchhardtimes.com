@@ -121,6 +121,25 @@
       </div>
       <div class="row featurette">
         <div class="col-md-4">
+          <h2 class='text-warning'>Ariana Marie</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pfBvuNHWLqg" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>
+            The amazing Ariana Marie talks about how her family on-screen is also her family off-screen.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
           <h2 class='text-warning'>Jessa Rhodes</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kIXy00yq2mY" allowfullscreen></iframe>
@@ -130,28 +149,9 @@
             One of adult entertainment's most exciting performers talks about playing the more conventional role of Tammy Johnson.</p>
             <div class="share">
               <div class="share-btns">
-                <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_twitter_large' displayText='Tweet'></span>
                 <span class='st_pinterest_large' displayText='Pinterest'></span>
-                <span class='st_email_large' displayText='Email'></span>
-              </div>
-              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <h2 class='text-warning'>Jessa Rhodes (Extended)</h2>
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0bhweB8xmBM" allowfullscreen></iframe>
-          </div>
-          <div class='vid-desc'>
-            <p>
-            An extended Q&A from the beautiful Jessa Rhodes.</p>
-            <div class="share">
-              <div class="share-btns">
                 <span class='st_facebook_large' displayText='Facebook'></span>
-                <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -168,9 +168,9 @@
             The internationally famous adult performer talks about how the show treats porn from a fun positive new angle.</p>
             <div class="share">
               <div class="share-btns">
-                <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_twitter_large' displayText='Tweet'></span>
                 <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -199,9 +199,9 @@
             The legendary adult performer enjoys working with the newer performers in the industry -- they just gets better and better!</p>
             <div class="share">
               <div class="share-btns">
-                <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_twitter_large' displayText='Tweet'></span>
                 <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -210,17 +210,34 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-4">
+          <h2 class='text-warning'>Jessa Rhodes (Extended)</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0bhweB8xmBM" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>
+            An extended Q&A from the beautiful Jessa Rhodes.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-8">
           <h2>Later this week&hellip;</h2>
           <p class='interview-text'>Interviews with our stars:
-            <a href="http://www.imdb.com/name/nm6064601/">Ariana Marie</a> 
             <a href="http://en.wikipedia.org/wiki/Brandy_Aniston">Brandy Aniston</a> 
             <a href="http://www.imdb.com/name/nm6682933/">Andy Taylor</a> 
             <a href="http://en.wikipedia.org/wiki/Evan_Stone">Evan Stone</a>
             <a href="http://en.wikipedia.org/wiki/Tommy_Gunn_%28pornographic_actor%29">Tommy Gunn</a> 
-            <a href="http://en.wikipedia.org/wiki/Tommy_Pistol">Tommy Pistol</a> 
-            <a href="http://en.wikipedia.org/wiki/Venus_Lux">Venus Lux</a> and
-            <a href="http://en.wikipedia.org/wiki/Nina_Hartley">Nina Hartley</a> 
+            <a href="http://en.wikipedia.org/wiki/Tommy_Pistol">Tommy Pistol</a> and
+            <a href="http://en.wikipedia.org/wiki/Venus_Lux">Venus Lux</a> 
           </p>
         </div>
       </div>
