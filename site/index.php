@@ -281,7 +281,7 @@
         client_now = new Date(), 
         client_start = new Date(), 
         server_now = new Date(<?= time(); ?> * 1000), 
-        dest = new Date(<?= strtotime("April 2nd, 2015 10PM") ?> * 1000);
+        dest = new Date(<?= strtotime("April 3rd, 2015 2AM") ?> * 1000);
 
       function countdown() {
         client_now = new Date();
