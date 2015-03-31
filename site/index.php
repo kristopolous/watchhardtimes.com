@@ -121,6 +121,24 @@
       </div>
       <div class="row featurette">
         <div class="col-md-4">
+          <h2 class='text-warning'>Brandy Aniston</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dVDUyolKgmY" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>The award-winning adult performer talks about how much fun it is to perform with good friends.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
           <h2 class='text-warning'>Ariana Marie</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pfBvuNHWLqg" allowfullscreen></iframe>
@@ -147,25 +165,6 @@
           <div class='vid-desc'>
             <p>
             One of adult entertainment's most exciting performers talks about playing the more conventional role of Tammy Johnson.</p>
-            <div class="share">
-              <div class="share-btns">
-                <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
-                <span class='st_facebook_large' displayText='Facebook'></span>
-                <span class='st_email_large' displayText='Email'></span>
-              </div>
-              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <h2 class='text-warning'>Eric Masterson</h2>
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_p32SDO119E" allowfullscreen></iframe>
-          </div>
-          <div class='vid-desc'>
-            <p>
-            The internationally famous adult performer talks about how the show treats porn from a fun positive new angle.</p>
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
@@ -211,6 +210,25 @@
       </div>
       <div class="row">
         <div class="col-md-4">
+          <h2 class='text-warning'>Eric Masterson</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_p32SDO119E" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>
+            The internationally famous adult performer talks about how the show treats porn from a fun positive new angle.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
           <h2 class='text-warning'>Jessa Rhodes (Extended)</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0bhweB8xmBM" allowfullscreen></iframe>
@@ -229,7 +247,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-8">
+        <div class="col-md-4">
           <h2>Later this week&hellip;</h2>
           <p class='interview-text'>Interviews with our stars:
             <a href="http://en.wikipedia.org/wiki/Brandy_Aniston">Brandy Aniston</a> 
