@@ -76,7 +76,7 @@
         <h2 class="featurette-heading">Watch The Show.</h2>
       <div class="row show">
         <div class="col-md-4">
-          <h2 class='text-warning'><em>Ep 1.</em>Meet The Johnsons</h2>
+          <h2 class='text-warning'><em>1</em>Meet The Johnsons</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2V14-hTyrnc" allowfullscreen></iframe>
           </div>
@@ -95,7 +95,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2 class='text-warning'><em>Ep 2.</em>Anything for money</h2>
+          <h2 class='text-warning'><em>2</em>Anything for money</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jeOsmfQXh8c" allowfullscreen></iframe>
           </div>
@@ -114,7 +114,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2 class='text-warning'><em>Ep 3.</em>Getting off Easy</h2>
+          <h2 class='text-warning'><em>3</em>Getting off Easy</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wzYzKCJRGjQ" allowfullscreen></iframe>
           </div>
