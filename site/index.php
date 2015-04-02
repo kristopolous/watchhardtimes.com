@@ -349,7 +349,7 @@
         dest = new Date(<?= strtotime("April 2nd, 2015 11:59PM") ?> * 1000);
 
       $(function(){
-        if(window.location.search.legth > 0) {
+        if(window.location.search.length > 0) {
           rollover();
         };
       });
