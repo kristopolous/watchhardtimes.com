@@ -77,6 +77,12 @@ h2 .text-muted {
 .box p {
   font-size: 1.15em;
 }
+#show {
+  display: none
+}
+#countdown-wrapper {
+  display: none;
+}
 #countdown { 
   display: block;
   padding: 0.30em 0;
@@ -155,7 +161,7 @@ h2 .text-muted {
 }
 
 .vid-desc {
-  font-size: 1.15em;
+  font-size: 18px;
   margin-bottom: 2em;
 }
 .share-btns {

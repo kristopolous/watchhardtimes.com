@@ -71,52 +71,100 @@
 
     </div>
     <div class="break"></div>
-    <!--
-    <div class="jumbotron" style='display:none'>
+    <div class="jumbotron" id="show">
       <div class="container">
-        <h2 class="featurette-heading">watch all episodes<br><span class="text-muted">(coming april 1)</span></h2>
+        <h2 class="featurette-heading">Watch The Show.</h2>
       <div class="row show">
         <div class="col-md-4">
           <h2 class='text-warning'><em>Ep 1.</em>Meet The Johnsons</h2>
-          <a href="vid1"><span class='play'></span><img src="img/ep1.jpg" class="img-thumbnail"></a>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2V14-hTyrnc" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+          <p>The Johnsons sink their last cent into a video. Will they finish it before their angry neighbor shuts them down?</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
         </div>
 
         <div class="col-md-4">
           <h2 class='text-warning'><em>Ep 2.</em>Anything for money</h2>
-          <a href="vid2"><span class='play'></span><img src="img/ep2.jpg" class="img-thumbnail"></a>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jeOsmfQXh8c" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>Everyone in the family has their own money making scheme. Will any of them work?</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
         </div>
 
         <div class="col-md-4">
           <h2 class='text-warning'><em>Ep 3.</em>Getting off Easy</h2>
-          <a href="vid3"><span class='play'></span><img src="img/ep3.jpg" class="img-thumbnail"></a>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wzYzKCJRGjQ" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>Working the system has its pay offs. But will they be enough?</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
     </div>
-    -->
 
     <div class="container">
 
-      <div class="row featurette">
-        <div class="col-md-12">
-          <h2 class="featurette-heading firstline">
-            <span class="hidden-xs hidden-sm">Hard Times.</span>
-            <span>On This Site</span> <span>April 2nd.</span>
-          </h2>
+      <div id="countdown-wrapper">
+        <div class="row featurette">
+          <div class="col-md-12">
+            <h2 class="featurette-heading firstline">
+              <span class="hidden-xs hidden-sm">Hard Times.</span>
+              <span>On This Site</span> <span>April 2nd.</span>
+            </h2>
+          </div>
+          <div class="col-md-4 col-xs-12 col-sm-12">
+          </div>
         </div>
-        <div class="col-md-4 col-xs-12 col-sm-12">
+        <div class="row featurette">
+          <div class="col-md-12">
+            <h2 class="featurette-heading teaser interview" style='margin-top:0'>
+              <span class="text-muted">New interviews and more each evening as we count down.</span>
+              <span class="text-success text-muted" id="countdown">&nbsp;</span>
+            </h2>
+
+            <div class='hidden'>
+            <h2 class="featurette-heading">Behind the Scenes<br><span class="text-muted">exclusive interviews.</span></h2>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="row featurette">
-        <div class="col-md-12">
-          <h2 class="featurette-heading teaser interview" style='margin-top:0'>
-            <span class="text-muted">New interviews and more each evening as we count down.</span>
-            <span class="text-success text-muted" id="countdown">&nbsp;</span>
-          </h2>
 
-          <div class='hidden'>
-          <h2 class="featurette-heading">Behind the Scenes<br><span class="text-muted">exclusive interviews.</span></h2>
-          </div>
+      <div class="row">
+        <div class="col-md-8">
+        <h2 class="featurette-heading">Watch The Interviews.</h2>
         </div>
       </div>
       <div class="row featurette">
@@ -248,9 +296,8 @@
           </div>
         </div>
         <div class="col-md-4">
-          <h2>Later this week&hellip;</h2>
-          <p class='interview-text'>Interviews with our stars:
-            <a href="http://en.wikipedia.org/wiki/Brandy_Aniston">Brandy Aniston</a> 
+          <h2>Soon&hellip;</h2>
+          <p class='interview-text'>More Interviews with our stars:
             <a href="http://www.imdb.com/name/nm6682933/">Andy Taylor</a> 
             <a href="http://en.wikipedia.org/wiki/Evan_Stone">Evan Stone</a>
             <a href="http://en.wikipedia.org/wiki/Tommy_Gunn_%28pornographic_actor%29">Tommy Gunn</a> 
@@ -299,11 +346,29 @@
         client_now = new Date(), 
         client_start = new Date(), 
         server_now = new Date(<?= time(); ?> * 1000), 
-        dest = new Date(<?= strtotime("April 3rd, 2015 2AM") ?> * 1000);
+        dest = new Date(<?= strtotime("April 2nd, 2015 5PM") ?> * 1000);
+
+      $(function(){
+        if(window.location.search.legth > 0) {
+          rollover();
+        };
+      });
+
+      function rollover() {
+        dest = server_now + 5000;
+      }
 
       function countdown() {
         client_now = new Date();
         var remaining = (dest - (client_now - client_start + +server_now)) / 1000;
+
+        if(remaining > 0) {
+          $("#countdown-wrapper").show();
+          $("#show").hide();
+        } else {
+          $("#show").show();
+          $("#countdown-wrapper").hide();
+        }
 
         var Day = Math.floor(remaining / 60 / 60 / 24),
           rem = {
@@ -313,7 +378,9 @@
           },
           words = "<span>";
 
-        words += Day + " day" + ((Day != 1) ? "s" : "") + "</span> <span>";
+        if(Day > 0) {
+          words += Day + " day" + ((Day != 1) ? "s" : "") + "</span> <span>";
+        }
 
         for(var which in rem) {
           if(rem[which] < 10 && (which == 'second')) {
