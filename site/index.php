@@ -346,7 +346,7 @@
         client_now = new Date(), 
         client_start = new Date(), 
         server_now = new Date(<?= time(); ?> * 1000), 
-        dest = new Date(<?= strtotime("April 2nd, 2015 5PM") ?> * 1000);
+        dest = new Date(<?= strtotime("April 2nd, 2015 11:59PM") ?> * 1000);
 
       $(function(){
         if(window.location.search.legth > 0) {
