@@ -67,7 +67,7 @@
         <div class="col-md-12">
           <h2 class='text-warning ep-title'><a href="//youtube.com/watch?v=2V14-hTyrnc"><em>1</em>Meet The Johnsons</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2V14-hTyrnc" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2V14-hTyrnc?list=PL84Lpy4fIGbPmKM7fCMCKJaNiIV33Fux8" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
           <p>The Johnsons sink their last cent into a video. Will they finish it before their angry neighbor shuts them down?</p>
@@ -88,7 +88,7 @@
         <div class="col-md-12">
           <h2 class='text-warning ep-title'><a href="//youtube.com/watch?v=jeOsmfQXh8c"><em>2</em>Anything for Money</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/jeOsmfQXh8c" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/jeOsmfQXh8c?list=PL84Lpy4fIGbOchj7-7FsvTKg-XvdXyqhJ" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>Everyone in the family has their own money making scheme. Will any of them work?</p>
@@ -109,7 +109,7 @@
         <div class="col-md-12">
           <h2 class='text-warning ep-title'><a href="//youtube.com/watch?v=wzYzKCJRGjQ"><em>3</em>Getting off Easy</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/wzYzKCJRGjQ" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/wzYzKCJRGjQ?list=PL84Lpy4fIGbPFQdvpuxjmH_N7xqrDZEMG" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>Working the system has its pay offs. But will they be enough?</p>
@@ -127,7 +127,7 @@
       </div>
       <div class="row featurette">
         <div class="col-md-6">
-          <h2 class='text-warning'>Want to See More?</h2>
+          <h2 class='text-warning ep-title'>Want to See More?</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/IBprLbSkJRY" allowfullscreen></iframe>
           </div>
