@@ -85,8 +85,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -106,8 +106,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -127,8 +127,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -151,8 +151,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -181,8 +181,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -200,8 +200,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -231,8 +231,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -252,8 +252,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -271,8 +271,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
@@ -292,8 +292,8 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
               <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
