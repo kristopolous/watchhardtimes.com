@@ -62,7 +62,6 @@
     <div class="break"></div>
     <div class="jumbotron" id="show">
       <div class="container">
-        <h2 class="featurette-heading">Watch The Show.</h2>
       <div class="row show">
         <div class="col-md-12">
           <h2 class='text-warning ep-title'><a href="//youtube.com/watch?v=2V14-hTyrnc"><em>1</em>Meet The Johnsons</a></h2>
