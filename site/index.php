@@ -76,7 +76,7 @@
         <h2 class="featurette-heading">Watch The Show.</h2>
       <div class="row show">
         <div class="col-md-4">
-          <h2 class='text-warning'><em>1</em>Meet The Johnsons</h2>
+          <h2 class='text-warning ep-title'><em>1</em>Meet The Johnsons</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2V14-hTyrnc" allowfullscreen></iframe>
           </div>
@@ -85,7 +85,7 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
@@ -95,7 +95,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2 class='text-warning'><em>2</em>Anything for money</h2>
+          <h2 class='text-warning ep-title'><em>2</em>Anything for money</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jeOsmfQXh8c" allowfullscreen></iframe>
           </div>
@@ -104,7 +104,7 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
@@ -114,7 +114,7 @@
         </div>
 
         <div class="col-md-4">
-          <h2 class='text-warning'><em>3</em>Getting off Easy</h2>
+          <h2 class='text-warning ep-title'><em>3</em>Getting off Easy</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wzYzKCJRGjQ" allowfullscreen></iframe>
           </div>
@@ -123,7 +123,7 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
@@ -131,6 +131,30 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="row featurette">
+        <div class="col-md-6">
+          <h2 class='text-warning'>Want to See More?</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IBprLbSkJRY" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="col-md-6 box more">
+          <h2 class="featurette-heading text-warning tumblr-title" style='margin-top:0'><span>Listen to Ariana!</span></h2>
+          <p>Help your favorite stars make more Hard Times by sharing our episodes with your friends!</p>
+          <p>You can make a difference! It's going to be a lot of fun --- just ask Ariana!</p>
+          <p>Thanks.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+        </div>
+      
       </div>
     </div>
     </div>
@@ -164,7 +188,7 @@
 
       <div class="row">
         <div class="col-md-8">
-        <h2 class="featurette-heading">Watch The Interviews.</h2>
+        <h2 class="featurette-heading">Interviews.</h2>
         </div>
       </div>
       <div class="row featurette">
@@ -178,26 +202,7 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
-                <span class='st_facebook_large' displayText='Facebook'></span>
-                <span class='st_email_large' displayText='Email'></span>
-              </div>
-              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <h2 class='text-warning'>Ariana Marie</h2>
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pfBvuNHWLqg" allowfullscreen></iframe>
-          </div>
-          <div class='vid-desc'>
-            <p>
-            The amazing Ariana Marie talks about how her family on-screen is also her family off-screen.</p>
-            <div class="share">
-              <div class="share-btns">
-                <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
@@ -216,7 +221,26 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <h2 class='text-warning'>Ariana Marie</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pfBvuNHWLqg" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>
+            The amazing Ariana Marie talks about how her family on-screen is also her family off-screen.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
@@ -247,7 +271,7 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
@@ -268,7 +292,7 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>
@@ -287,7 +311,7 @@
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_pinterest_large' displayText='Pinterest'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
                 <span class='st_facebook_large' displayText='Facebook'></span>
                 <span class='st_email_large' displayText='Email'></span>
               </div>

@@ -121,6 +121,9 @@ h2 .text-muted {
   padding: 0
 }
 
+.ep-title {
+  white-space: nowrap;
+}
 .show-title {
   text-align: right;
 }
@@ -170,6 +173,7 @@ h2 .text-muted {
 .teaser {
   margin-bottom: .75em;
 }
+.more{margin-top:70px;}
 @media (max-width: 480px) {
   .show-title {
     font-size: 100%;
@@ -180,8 +184,13 @@ h2 .text-muted {
 }
 
 @media (max-width: 768px) {
+.more{margin-top:20px;}
   .lhs .copy {
     line-height: 1.20em;
+  }
+  .ep-title {
+    font-size: 29px;
+    white-space: nowrap;
   }
   .box {
     border-radius: 0;
