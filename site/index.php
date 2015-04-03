@@ -78,7 +78,7 @@
         <div class="col-md-12">
           <h2 class='text-warning ep-title'><em>1</em>Meet The Johnsons</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2V14-hTyrnc" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/2V14-hTyrnc" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
           <p>The Johnsons sink their last cent into a video. Will they finish it before their angry neighbor shuts them down?</p>
@@ -99,7 +99,7 @@
         <div class="col-md-12">
           <h2 class='text-warning ep-title'><em>2</em>Anything for money</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jeOsmfQXh8c" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/jeOsmfQXh8c" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>Everyone in the family has their own money making scheme. Will any of them work?</p>
@@ -120,7 +120,7 @@
         <div class="col-md-12">
           <h2 class='text-warning ep-title'><em>3</em>Getting off Easy</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wzYzKCJRGjQ" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/wzYzKCJRGjQ" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>Working the system has its pay offs. But will they be enough?</p>
@@ -140,7 +140,7 @@
         <div class="col-md-6">
           <h2 class='text-warning'>Want to See More?</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IBprLbSkJRY" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/IBprLbSkJRY" allowfullscreen></iframe>
           </div>
         </div>
         <div class="col-md-6 box more">
@@ -174,7 +174,7 @@
         <div class="col-md-6">
           <h2 class='text-warning'>Brandy Aniston</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dVDUyolKgmY" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/dVDUyolKgmY" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>The award-winning adult performer talks about how much fun it is to perform with good friends.</p>
@@ -192,7 +192,7 @@
         <div class="col-md-6">
           <h2 class='text-warning'>Jessa Rhodes</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kIXy00yq2mY" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/kIXy00yq2mY" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>
@@ -223,7 +223,7 @@
         <div class="col-md-6">
           <h2 class='text-warning'>Nina Hartley</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8OvjBIH-h5I" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/8OvjBIH-h5I" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>
@@ -244,7 +244,7 @@
         <div class="col-md-6">
           <h2 class='text-warning'>Ariana Marie</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pfBvuNHWLqg" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/pfBvuNHWLqg" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>
@@ -263,7 +263,7 @@
         <div class="col-md-6">
           <h2 class='text-warning'>Eric Masterson</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_p32SDO119E" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/_p32SDO119E" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>
@@ -284,7 +284,7 @@
         <div class="col-md-6">
           <h2 class='text-warning'>Jessa Rhodes (Extended)</h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0bhweB8xmBM" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/0bhweB8xmBM" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>
@@ -335,6 +335,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/jquery.lazyloadxt.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
@@ -346,6 +347,7 @@
 
       ga('create', 'UA-61056921-1', 'auto');
       ga('send', 'pageview');
+      $("iframe").lazyLoadXT();
     </script>
   </body>
 </html>
