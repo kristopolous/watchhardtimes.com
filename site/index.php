@@ -75,7 +75,7 @@
       <div class="container">
         <h2 class="featurette-heading">Watch The Show.</h2>
       <div class="row show">
-        <div class="col-md-4">
+        <div class="col-md-12">
           <h2 class='text-warning ep-title'><em>1</em>Meet The Johnsons</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2V14-hTyrnc" allowfullscreen></iframe>
@@ -93,8 +93,10 @@
             </div>
           </div>
         </div>
+      </div>
 
-        <div class="col-md-4">
+      <div class="row show">
+        <div class="col-md-12">
           <h2 class='text-warning ep-title'><em>2</em>Anything for money</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jeOsmfQXh8c" allowfullscreen></iframe>
@@ -112,8 +114,10 @@
             </div>
           </div>
         </div>
+      </div>
 
-        <div class="col-md-4">
+      <div class="row show">
+        <div class="col-md-12">
           <h2 class='text-warning ep-title'><em>3</em>Getting off Easy</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wzYzKCJRGjQ" allowfullscreen></iframe>
@@ -167,7 +171,7 @@
         </div>
       </div>
       <div class="row featurette">
-        <div class="col-md-4">
+        <div class="col-md-6">
           <h2 class='text-warning'>Brandy Aniston</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dVDUyolKgmY" allowfullscreen></iframe>
@@ -185,7 +189,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <h2 class='text-warning'>Jessa Rhodes</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kIXy00yq2mY" allowfullscreen></iframe>
@@ -193,25 +197,6 @@
           <div class='vid-desc'>
             <p>
             One of adult entertainment's most exciting performers talks about playing the more conventional role of Tammy Johnson.</p>
-            <div class="share">
-              <div class="share-btns">
-                <span class='st_twitter_large' displayText='Tweet'></span>
-                <span class='st_instagram_large' displayText='Instagram'></span>
-                <span class='st_facebook_large' displayText='Facebook'></span>
-                <span class='st_email_large' displayText='Email'></span>
-              </div>
-              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <h2 class='text-warning'>Ariana Marie</h2>
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pfBvuNHWLqg" allowfullscreen></iframe>
-          </div>
-          <div class='vid-desc'>
-            <p>
-            The amazing Ariana Marie talks about how her family on-screen is also her family off-screen.</p>
             <div class="share">
               <div class="share-btns">
                 <span class='st_twitter_large' displayText='Tweet'></span>
@@ -256,7 +241,26 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
+          <h2 class='text-warning'>Ariana Marie</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pfBvuNHWLqg" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>
+            The amazing Ariana Marie talks about how her family on-screen is also her family off-screen.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
           <h2 class='text-warning'>Eric Masterson</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_p32SDO119E" allowfullscreen></iframe>
@@ -275,7 +279,9 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4">
+      </div>
+      <div class="row">
+        <div class="col-md-6">
           <h2 class='text-warning'>Jessa Rhodes (Extended)</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0bhweB8xmBM" allowfullscreen></iframe>
@@ -294,7 +300,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <h2>Soon&hellip;</h2>
           <p class='interview-text'>More Interviews with our stars:
             <a href="http://www.imdb.com/name/nm6682933/">Andy Taylor</a> 
