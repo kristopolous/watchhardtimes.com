@@ -20,19 +20,13 @@
     <meta name="twitter:image:src" content="http://watchhardtimes.com/img/twit-image.jpg" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="icon" href="../../favicon.ico">
+    <link rel="icon" href="favicon.ico">
 
     <title>Hard Times, the show!</title>
 
-    <!-- Bootstrap core CSS -->
+    <link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
     <link href="css/jumbotron.css?<?= rand(); ?>" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="js/ie-emulation-modes-warning.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -44,7 +38,6 @@
 
   <body>
 
-    <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class='header-image'>
       <div class="lead">
         <div class="container-fluid">
@@ -313,23 +306,8 @@
       <footer>
         <p class="text-muted">&copy; Hard Times Productions, LLC 2015. <a href="mailto:Hardtimestwitter@gmail.com">Contact</a>.</p>
       </footer>
-    </div> <!-- /container -->
+    </div> 
 
-    <div class="container" style="display:none">
-      <h1>Want more?</h1>
-      <h2>So do we.</h2>
-      <h3>We need your help!</h3>
-      <p>There's no big studio behind Hard Times.</p>
-      <p class='text-muted'>Dozens of volunteers pulled countless all-nighters to make this show happen.</p>
-      <h4>Every time you watch, every time you share, every person you tell, helps us!</h4>
-      <p>The hollywood studios are only interested if enough people view what we've made.</p>
-      <p>If you want more, it's crucial that You Help Us by spreading the word.</p>
-    </div>
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="js/jquery.lazyloadxt.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -337,7 +315,6 @@
     <script src="js/ie10-viewport-bug-workaround.js"></script>
 
     <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -350,7 +327,7 @@
 
       setTimeout(function(){
         $("#place-here").append( $("#load-after").html() );
-      }, 4 * 1000);
+      }, 3 * 1000);
     </script>
 
     <script type="text/plain" id="load-after">
