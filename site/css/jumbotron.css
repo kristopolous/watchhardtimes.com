@@ -119,7 +119,6 @@ h2 .text-muted {
   position: relative;
   padding: 0
 }
-
 .ep-title {
   white-space: nowrap;
   font-family: 'Anton', sans-serif;
@@ -184,6 +183,11 @@ h2 .text-muted {
 }
 
 @media (max-width: 768px) {
+
+.jumbotron {
+  padding-left: 0;
+  padding-right: 0;
+}
 .more{margin-top:20px;}
   .lhs .copy {
     line-height: 1.20em;
