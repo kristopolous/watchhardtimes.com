@@ -76,7 +76,7 @@
         <div class="col-md-12">
           <h2 class='text-warning ep-title'><a href="//youtube.com/watch?v=2V14-hTyrnc"><em>1</em>Meet The Johnsons</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/2V14-hTyrnc" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2V14-hTyrnc" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
           <p>The Johnsons sink their last cent into a video. Will they finish it before their angry neighbor shuts them down?</p>
