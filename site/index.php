@@ -42,8 +42,6 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <script type="text/javascript">var switchTo5x=true;</script>
-    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-    <script type="text/javascript">stLight.options({publisher: "2e2c4a8c-fb8f-4bb5-a4a1-c008062c1c1a", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
   </head>
 
   <body>
@@ -349,5 +347,7 @@
       ga('send', 'pageview');
       $("iframe").lazyLoadXT();
     </script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher: "2e2c4a8c-fb8f-4bb5-a4a1-c008062c1c1a", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
   </body>
 </html>
