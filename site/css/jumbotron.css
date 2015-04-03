@@ -77,6 +77,11 @@ h2 .text-muted {
 .box p {
   font-size: 1.15em;
 }
+.text-warning a {
+  font-size: 120%;
+  color: inherit
+
+}
 #countdown { 
   display: block;
   padding: 0.30em 0;
