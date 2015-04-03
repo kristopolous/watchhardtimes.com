@@ -346,8 +346,18 @@
       ga('create', 'UA-61056921-1', 'auto');
       ga('send', 'pageview');
       $("iframe").lazyLoadXT();
+
+      setTimeout(function(){
+        $("#place-here").append( $("#load-after").html() );
+      }, 6 * 1000);
     </script>
-    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-    <script type="text/javascript">stLight.options({publisher: "2e2c4a8c-fb8f-4bb5-a4a1-c008062c1c1a", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+    <script type="text/plain" id="load-after">
+      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+      <script type="text/javascript">stLight.options({publisher: "2e2c4a8c-fb8f-4bb5-a4a1-c008062c1c1a", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+    </script>
+
+    <div id="place-here">
+    </div>
   </body>
 </html>
