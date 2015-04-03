@@ -29,7 +29,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/jumbotron.css" rel="stylesheet">
+    <link href="css/jumbotron.css?<?= rand(); ?>" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
@@ -160,31 +160,6 @@
     </div>
 
     <div class="container">
-
-      <div id="countdown-wrapper">
-        <div class="row featurette">
-          <div class="col-md-12">
-            <h2 class="featurette-heading firstline">
-              <span class="hidden-xs hidden-sm">Hard Times.</span>
-              <span>On This Site</span> <span>April 2nd.</span>
-            </h2>
-          </div>
-          <div class="col-md-4 col-xs-12 col-sm-12">
-          </div>
-        </div>
-        <div class="row featurette">
-          <div class="col-md-12">
-            <h2 class="featurette-heading teaser interview" style='margin-top:0'>
-              <span class="text-muted">New interviews and more each evening as we count down.</span>
-              <span class="text-success text-muted" id="countdown">&nbsp;</span>
-            </h2>
-
-            <div class='hidden'>
-            <h2 class="featurette-heading">Behind the Scenes<br><span class="text-muted">exclusive interviews.</span></h2>
-            </div>
-          </div>
-        </div>
-      </div>
 
       <div class="row">
         <div class="col-md-8">
@@ -365,60 +340,6 @@
 
       ga('create', 'UA-61056921-1', 'auto');
       ga('send', 'pageview');
-
-      var 
-        client_now = new Date(), 
-        client_start = new Date(), 
-        server_now = new Date(<?= time(); ?> * 1000), 
-        dest = new Date(<?= strtotime("April 2nd, 2015 11:59PM") ?> * 1000);
-
-      $(function(){
-        if(window.location.search.length > 0) {
-          rollover();
-        };
-      });
-
-      function rollover() {
-        dest = server_now + 5000;
-      }
-
-      function countdown() {
-        client_now = new Date();
-        var remaining = (dest - (client_now - client_start + +server_now)) / 1000;
-
-        if(remaining > 0) {
-          $("#countdown-wrapper").show();
-          $("#show").hide();
-        } else {
-          $("#show").show();
-          $("#countdown-wrapper").hide();
-        }
-
-        var Day = Math.floor(remaining / 60 / 60 / 24),
-          rem = {
-            hour: Math.floor(remaining / 60 / 60) % 24,
-            minute: Math.floor(remaining / 60) % 60,
-            second: Math.floor(remaining % 60)
-          },
-          words = "<span>";
-
-        if(Day > 0) {
-          words += Day + " day" + ((Day != 1) ? "s" : "") + "</span> <span>";
-        }
-
-        for(var which in rem) {
-          if(rem[which] < 10 && (which == 'second')) {
-            words += '&nbsp;'
-          }
-          words += rem[which] + which.slice(0,1) + " ";
-        }
-        words += "</span>";
-        $("#countdown").html($.trim(words));  
-      }
-
-      countdown();
-      setInterval(countdown, 200);
-
     </script>
   </body>
 </html>
