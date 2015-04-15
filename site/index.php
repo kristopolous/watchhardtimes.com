@@ -249,6 +249,46 @@
           </div>
         </div>
         <div class="col-md-6">
+          <h2 class='text-warning'>Andy Taylor</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/CBdHzMFIWn4" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>
+            Andy talks about getting his mainstream cherry popped on the set of the show.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <h2 class='text-warning'>Evan Stone</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/nftVZA-46o0" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>
+            If you haven't seen him before, watch the brilliant Evan Stone. This man needs to do standup.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
           <h2 class='text-warning'>Eric Masterson</h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/_p32SDO119E" allowfullscreen></iframe>
@@ -291,8 +331,6 @@
         <div class="col-md-6">
           <h2>Soon&hellip;</h2>
           <p class='interview-text'>More Interviews with our stars:
-            <a href="http://www.imdb.com/name/nm6682933/">Andy Taylor</a> 
-            <a href="http://en.wikipedia.org/wiki/Evan_Stone">Evan Stone</a>
             <a href="http://en.wikipedia.org/wiki/Tommy_Gunn_%28pornographic_actor%29">Tommy Gunn</a> 
             <a href="http://en.wikipedia.org/wiki/Tommy_Pistol">Tommy Pistol</a> and
             <a href="http://en.wikipedia.org/wiki/Venus_Lux">Venus Lux</a> 
