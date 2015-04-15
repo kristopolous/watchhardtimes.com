@@ -126,7 +126,7 @@
       </div>
       <div class="row featurette">
         <div class="col-md-6">
-          <h2 class='text-warning ep-title'>Want to See More?</h2>
+          <h2 class='text-warning ep-title'><a href="//www.youtube.com/watch?v=IBprLbSkJRY">Want to See More?</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/IBprLbSkJRY" allowfullscreen></iframe>
           </div>
@@ -160,7 +160,7 @@
       </div>
       <div class="row featurette">
         <div class="col-md-6">
-          <h2 class='text-warning'>Brandy Aniston</h2>
+          <h2 class='text-warning'><a href="//www.youtube.com/watch?v=dVDUyolKgmY">Brandy Aniston</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/dVDUyolKgmY" allowfullscreen></iframe>
           </div>
@@ -178,7 +178,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <h2 class='text-warning'>Jessa Rhodes</h2>
+          <h2 class='text-warning'><a href="//www.youtube.com/watch?v=kIXy00yq2mY">Jessa Rhodes</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/kIXy00yq2mY" allowfullscreen></iframe>
           </div>
@@ -209,7 +209,7 @@
           <p><a href="http://watchhardtimes.tumblr.com/">watchhardtimes.tumblr.com</a></p>
         </div>
         <div class="col-md-6">
-          <h2 class='text-warning'>Nina Hartley</h2>
+          <h2 class='text-warning'><a href="//www.youtube.com/watch?v=8OvjBIH-h5I">Nina Hartley</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/8OvjBIH-h5I" allowfullscreen></iframe>
           </div>
@@ -230,7 +230,7 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <h2 class='text-warning'>Ariana Marie</h2>
+          <h2 class='text-warning'><a href="//www.youtube.com/watch?v=pfBvuNHWLqg">Ariana Marie</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/pfBvuNHWLqg" allowfullscreen></iframe>
           </div>
@@ -249,7 +249,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <h2 class='text-warning'>Andy Taylor</h2>
+          <h2 class='text-warning'><a href="//www.youtube.com/watch?v=CBdHzMFIWn4">Andy Taylor</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/CBdHzMFIWn4" allowfullscreen></iframe>
           </div>
@@ -270,7 +270,7 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <h2 class='text-warning'>Evan Stone</h2>
+          <h2 class='text-warning'><a href="//www.youtube.com/watch?v=nftVZA-46o0">Evan Stone</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/nftVZA-46o0" allowfullscreen></iframe>
           </div>
@@ -289,7 +289,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <h2 class='text-warning'>Eric Masterson</h2>
+          <h2 class='text-warning'><a href="//www.youtube.com/watch?v=_p32SDO119E">Eric Masterson</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/_p32SDO119E" allowfullscreen></iframe>
           </div>
