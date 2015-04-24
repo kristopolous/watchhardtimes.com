@@ -108,7 +108,7 @@
         <div class="col-md-12">
           <h2 class='text-warning ep-title'><a href="//youtube.com/watch?v=wzYzKCJRGjQ"><em>3</em>Getting off Easy</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/wzYzKCJRGjQ?list=PL84Lpy4fIGbPFQdvpuxjmH_N7xqrDZEMG" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/wzYzKCJRGjQ?list=PL84Lpy4fIGbPAtun1xOOkQgFnfM4nz7lG" allowfullscreen></iframe>
           </div>
           <div class='vid-desc'>
             <p>Working the system has its pay offs. But will they be enough?</p>
