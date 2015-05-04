@@ -270,6 +270,24 @@
       </div>
       <div class="row">
         <div class="col-md-6">
+          <h2 class='text-warning'><a href="//www.youtube.com/watch?v=i-ZIL9oq21w">Kody Knight</a></h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/i-ZIL9oq21w" allowfullscreen></iframe>
+          </div>
+          <div class='vid-desc'>
+            <p>A charming young man who charms other men, it's Kody Knight.</p>
+            <div class="share">
+              <div class="share-btns">
+                <span class='st_twitter_large' displayText='Tweet'></span>
+                <span class='st_facebook_large' displayText='Facebook'></span>
+                <span class='st_instagram_large' displayText='Instagram'></span>
+                <span class='st_email_large' displayText='Email'></span>
+              </div>
+              <a href="https://twitter.com/watchhardtimes">@watchhardtimes</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
           <h2 class='text-warning'><a href="//www.youtube.com/watch?v=nftVZA-46o0">Evan Stone</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/nftVZA-46o0" allowfullscreen></iframe>
@@ -288,6 +306,8 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="row">
         <div class="col-md-6">
           <h2 class='text-warning'><a href="//www.youtube.com/watch?v=_p32SDO119E">Eric Masterson</a></h2>
           <div class="embed-responsive embed-responsive-16by9">
@@ -307,8 +327,6 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="row">
         <div class="col-md-6">
           <h2 class='text-warning'>Jessa Rhodes (Extended)</h2>
           <div class="embed-responsive embed-responsive-16by9">
@@ -328,6 +346,8 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="row">
         <div class="col-md-6">
           <h2>Soon&hellip;</h2>
           <p class='interview-text'>More Interviews with our stars:
